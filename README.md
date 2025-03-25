@@ -12,10 +12,17 @@
 
 # Descripción
 Este proyecto consiste en una aplicación web que sugiere películas a los usuarios en función de sus preferencias personales y las de otros usuarios con gustos similares.
+![](imgs/descripcion.gif)
 
 # EntornoWeb
+Colocar las carpetas "static", "templates" y el archivo MovieWatchIA.py que se encuentran en la carpeta "Web" en la siguiente ruta:
+C:\Users\SuUsuario
+
+Es el sitio desde donde se ejecutan los archivos en anaconda, esto en caso de usar anaconda.
+![](imgs/entornoweb.gif)
 
 # Arquitectura
+![](imgs/arquitectura.png)
 
 # Proceso
 Proceso de desarrollo:
